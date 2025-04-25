@@ -6,7 +6,7 @@ This repository showcases the implementation of several machine learning models 
 
 ### 1. Classification Model
 
-* **Filename:** `one.ipynb`
+
 * **Description:**
     * This notebook demonstrates a classification model built with Spark.
     * The Iris dataset is used for classification.
@@ -21,7 +21,7 @@ This repository showcases the implementation of several machine learning models 
 
 ### 2. Clustering Model
 
-* **Filename:** `two.ipynb`
+
 * **Description:**
     * This notebook demonstrates a clustering model built with Spark.
     * The Iris dataset (without the target column) is used for clustering.
@@ -36,7 +36,7 @@ This repository showcases the implementation of several machine learning models 
 
 ### 3. Recommendation Engine
 
-* **Filename:** `three.ipynb`
+
 * **Description:**
     * This notebook demonstrates a recommendation engine built with Spark.
     * The MovieLens 20M dataset is used.
